@@ -1,3 +1,4 @@
+#### [Hier klicken für die deutsche Version](de/)
 ## About me
 
 M.Sc. student in Embedded Computing Systems with hands-on experience in Embedded Intelligence, Microcontroller programming, Real-Time systems and industrial automation. Strong mix of analog and digital hardware, firmware (C/C++, Python, VHDL, Assembly) and AI/ML integration
