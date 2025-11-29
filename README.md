@@ -1,27 +1,88 @@
-# Hi, I’m Bhakti 👋
-- 🎓 M.Sc. Embedded Computing Systems (RPTU Kaiserslautern)  
-- 🔧 Enjoy working with microcontrollers, FPGAs and PLCs 
-- 🌍 Looking for Embedded system (Hardawre and/or Software) roles in Germany  
+# Bhakti Manoj Boob 
+**Embedded Systems • Automation**
 
-## 🔬 Projects
+---
 
-- Color‑Based Sorting with Robotic Arm and Conveyor (Arduino)
-  - Arduino UNO, GY‑31 color sensor, IR detection and pick‑and‑place arm for automated sorting 
-  - Repo: [color-sorting-robot-and-conveyor-arduino](https://github.com/Bhakti-Boob/color-sorting-robot-and-conveyor-arduino)
+## Contact
 
-- Record & Playback Robotic Arm with NodeMCU
-  - 4‑DOF robotic arm with motion teaching and playback via web UI or potentiometer variant  
-  - Repo: [record-playback-robotic-arm-nodemcu](https://github.com/Bhakti-Boob/record-playback-robotic-arm-nodemcu)
+* **Email:** [boobbhakti@gmail.com](mailto:boobbhakti@gmail.com)
+* **Location:** Kaiserslautern, Germany
 
-- Home Automation with NodeMCU  
-  - Voice and local switch control of home appliances using ESP8266 and SinricPro  
-  - Repo: [home-automation-nodemcu](https://github.com/Bhakti-Boob/home-automation-nodemcu)
+---
 
+## Professional summary
 
-- Voice‑Operated Robot Car with NodeMCU
-  - Robot car, receiving voice commands via smartphone → Adafruit IO → microcontroller, with motor driver control, distance sensing and status LEDs.  
-  - Repo: [voice-controlled-robot-car-nodemcu](https://github.com/Bhakti-Boob/voice-controlled-robot-car-nodemcu)
+M.Sc. student in Embedded Computing Systems with hands-on experience in Embedded Intelligence, Microcontroller programming, Real-Time systems and industrial automation. Strong mix of analog and digital hardware, firmware (C/C++, Python, VHDL, Assembly) and AI/ML integration
 
-- Automated IR Race Timer for Robots  (Arduino)
-  - Dual IR break‑beam timing gate with 4‑digit display for reproducible robot tests  
-  - Repo: [ir-race-timer-arduino](https://github.com/Bhakti-Boob/ir-race-timer-arduino)
+---
+
+## Work experience
+
+* **Research Assistant (Embedded Intelligence)** — DFKI, Kaiserslautern, Germany
+  *May 2025 – Present*
+
+  * Implemented and optimized neural networks on Field-Programmable Analog Arrays (FPAA) for low-latency, energy-efficient analog designs
+  * Integrated AI/ML training pipelines into analog deployment toolchains.
+  * Produced technical documentation and experimental reports.
+
+* **Student Assistant (Real-Time Systems)** — RPTU Kaiserslautern-Landau, Germany
+  *May 2025 – Aug 2025*
+
+  * Managed Assembler programming laboratory and mentored students in Assembly programming and hardware debugging on ARM Cortex-M0+ 
+  * Designed an automated IR-based precision timing and race management system for autonomous line following robots.
+
+* **Internship (Electronics)** — Brose Automotive Systems Pvt. Ltd., Pune, India
+  *May 2022 – Aug 2022*
+
+  * Performed tests on servomotors and EV cooling fan modules, set up test benches and produced technical reports.
+
+* **Internship (Electrical and Automobile)** — Teklogica Control Systems, Nashik, India
+  *Jan 2022 – Feb 2022*
+
+  * Supported PLC and HMI configuration for an Andon management assembly line, worked on wiring diagrams and control panel assembly.
+
+---
+
+## Education
+
+* **M.Sc., Embedded Computing Systems** — RPTU Kaiserslautern-Landau, Germany
+  *Apr 2024 – Present*
+* **B. Eng., Instrumentation and Control** — Savitribai Phule Pune University, India (GPA: 1.4)
+  *Jul 2019 – May 2023*
+
+  * Bachelor thesis:  Development of a robotic arm and conveyor for a color-based sorting operation (Awarded “Best Outgoing Project Award 2022–23”).
+
+---
+
+## Technical skills
+
+* **Languages & Firmware:** C, C++, Python, VHDL, SystemVerilog, Assembly 
+* **Microcontrollers & SoC:** ARM Cortex, Arduino, NodeMCU, FPGA, FPAA
+* **AI/ML:** Neural networks, ML toolchain integration
+* **PLC / Automation:** Siemens SIMATIC STEP-7 (TIA Portal), B&R Automation Studio
+* **Tools / Simulation:** MATLAB, Simulink, LabVIEW
+
+---
+
+## Projects 
+
+* **Record & playback Pick-and-Place robotic arm (NodeMCU)** — Teach-and-repeat system using potentiometer and Server UI
+* **Home automation (NodeMCU)** — IoT system for remote control and monitoring of home appliances with voice commands using Google Assistant
+* **Voice-operated robot car (Arduino)** — Robot motion control via voice commands using Google Assistant
+* **Electric trolley for biomedical application (B&R PLC)** — Precise motion control, obstacle detection and HMI for hospital use
+* **Gate automation (Siemens S7-1200 PLC)** — Safe open/close of gates with interlocks and simple HMI for industrial setting
+
+---
+
+## Certifications & Languages
+
+* **Certifications:** MVP-FOX (PLC/HMI/SCADA/Drives), B&R Automation Studio (Basic, ST & LD), Google AI — Explore ML (Intermediate)
+* **Languages:** Marwadi / Hindi / Marathi (native), English (IELTS 8.0), German (GOETHE-Zertifikat B1)
+
+---
+
+## Hobbies & interests
+
+Hiking · Swimming · Cycling · Reading
+
+---
