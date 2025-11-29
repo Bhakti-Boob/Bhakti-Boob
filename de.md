@@ -5,7 +5,8 @@ theme: jekyll-theme-minimal
 permalink: /de/
 ---
 
-#### [Click here for English version](../)
+#### [Click here for English version](https://bhakti-boob.github.io/Bhakti-Boob/)
+
 
 ## Über mich
 
@@ -99,6 +100,7 @@ Wandern · Schwimmen · Radfahren · Lesen
 * **E-Mail:** [boobbhakti@gmail.com](mailto:boobbhakti@gmail.com)  
 * **LinkedIn:** [linkedin.com/bhakti-boob](https://www.linkedin.com/in/bhakti-boob)  
 * **Ort:** Kaiserslautern, Deutschland
+
 
 
 
