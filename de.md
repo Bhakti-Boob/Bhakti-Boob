@@ -75,7 +75,7 @@ M.Sc. Studentin im Studiengang Embedded Computing Systems mit praktischer Erfahr
 ## Sprachkenntnisse
 
 * Marwadi, Hindi, Marathi (Muttersprache)  
-* Englisch (IELTS 8.0)  
+* Englisch (IELTS 8,0)  
 * Deutsch (GOETHE-Zertifikat B1 und derzeit im B2 Kurs)
 
 ---
@@ -99,4 +99,5 @@ Wandern · Schwimmen · Radfahren · Lesen
 * **E-Mail:** [boobbhakti@gmail.com](mailto:boobbhakti@gmail.com)  
 * **LinkedIn:** [linkedin.com/bhakti-boob](https://www.linkedin.com/in/bhakti-boob)  
 * **Ort:** Kaiserslautern, Deutschland
+
 
