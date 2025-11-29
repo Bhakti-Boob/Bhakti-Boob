@@ -7,96 +7,94 @@ permalink: /de/
 
 [Click here for English version](../)
 
-## About me
+## Über mich
 
-M.Sc. student in Embedded Computing Systems with hands-on experience in Embedded Intelligence, Microcontroller programming, Real-Time systems and industrial automation. Strong mix of analog and digital hardware, firmware (C/C++, Python, VHDL, Assembly) and AI/ML integration
+M.Sc.-Studentin im Studiengang Embedded Computing Systems mit praktischer Erfahrung in Embedded Intelligence, Mikrocontrollerprogrammierung, Echtzeitsystemen und industrieller Automatisierung. Bringt eine starke Kombination aus analoger und digitaler Hardware, Firmware Entwicklung (C, C++, Python, VHDL, Assembler) sowie AI/ML-Integration mit.
 
 ---
 
-## Work experience
+## Berufserfahrung
 
-* **Research Assistant (Embedded Intelligence)** — DFKI, Kaiserslautern, Germany
-  *May 2025 – Present*
+* **Wissenschaftliche Hilfskraft (Embedded Intelligence)** — DFKI, Kaiserslautern, Deutschland  
+  *Mai 2025 – heute*
 
-  * Implemented and optimized neural networks on Field-Programmable Analog Arrays (FPAA) for low-latency, energy-efficient analog designs
-  * Integrated AI/ML training pipelines into analog deployment toolchains
-  * Produced technical documentation and experimental reports
+  * Implementierung und Optimierung von Neuronalen Netzen auf Field-Programmable Analog Arrays (FPAA) für latenzarme und energieeffiziente analoge Designs  
+  * Integration von AI/ML Trainings Pipelines in Toolchains für die analoge Implementierung  
+  * Erstellung technischer Dokumentation und Versuchsberichte
 
-* **Student Assistant (Real-Time Systems)** — RPTU Kaiserslautern-Landau, Germany
-  *May 2025 – Aug 2025*
+* **Studentische Hilfskraft (Echtzeitsysteme)** — RPTU Kaiserslautern-Landau, Deutschland  
+  *Mai 2025 – Aug 2025*
 
-  * Managed Assembler programming laboratory and mentored students in Assembly programming and hardware debugging on ARM Cortex-M0+ 
-   * Designed and implemented [IR-based precision timing and race management system](https://github.com/Bhakti-Boob/ir-race-timer-arduino) for autonomous line following robots using Arduino
+  * Betreuung des Assemblerlabor und Unterstützung von Studierenden bei Assembler Programmierung und Hardware Debugging auf ARM Cortex-M0+  
+  * Konzeption und Umsetzung eines IR-basierten Präzisionszeitmess und Rennverwaltungssystems für autonome Linienfolge-Roboter mit Arduino  
+    ([IR-based precision timing and race management system](https://github.com/Bhakti-Boob/ir-race-timer-arduino))
 
-* **Internship (Electronics)** — Brose Automotive Systems Pvt. Ltd., Pune, India
-  *May 2022 – Aug 2022*
+* **Praktikum (Elektronik)** — Brose Automotive Systems Pvt. Ltd., Pune, Indien  
+  *Mai 2022 – Aug 2022*
 
-  * Performed tests on servomotors and EV cooling fan modules, set up test benches and produced technical reports
+  * Tests an Servomotoren und EV-Kühlgebläsemodulen durchgeführt, Prüfstände aufgebaut und technische Testberichte erstellt
 
-* **Internship (Electrical and Automobile)** — Teklogica Control Systems, Nashik, India
+* **Praktikum (Elektrotechnik und Automobil)** — Teklogica Control Systems, Nashik, Indien  
   *Jan 2022 – Feb 2022*
 
-  * Supported PLC and HMI configuration for an Andon management assembly line, worked on wiring diagrams and control panel assembly
+  * Unterstützung bei PLC und HMI Konfiguration für ein Andon Managementsystem in einer Montagelinie, Erstellung von Stromlaufplänen und Mitarbeit beim Aufbau von Schaltschränken
 
 ---
 
-## Projects 
+## Projekte 
 
-* **[Record & playback Pick-and-Place robotic arm (NodeMCU)](https://github.com/Bhakti-Boob/record-playback-robotic-arm-nodemcu)** — Teach-and-repeat system using potentiometer and Server UI
-* **[Home automation (NodeMCU)](https://github.com/Bhakti-Boob/home-automation-nodemcu)** — IoT system for remote control and monitoring of home appliances with voice commands using Google Assistant
-* **[Voice-operated robot car (NodeMCU)](https://github.com/Bhakti-Boob/voice-controlled-robot-car-nodemcu)** — Robot motion control via voice commands using Google Assistant
-* **Electric trolley for biomedical application (B&R PLC)** — Precise motion control, obstacle detection and HMI for hospital use
-* **Gate automation (Siemens S7-1200 PLC)** — Safe open/close of gates with interlocks and simple HMI for industrial setting
-
----
-  
-## Education
-
-* **M.Sc., Embedded Computing Systems** — RPTU Kaiserslautern-Landau, Germany
-  *Apr 2024 – Present*
-* **B. Eng., Instrumentation and Control** — Savitribai Phule Pune University, India (GPA: 1.4)
-  *Jul 2019 – May 2023*
-
-  * Bachelor thesis:  [Development of a robotic arm and conveyor for a color-based sorting operation using Arduino](https://github.com/Bhakti-Boob/color-sorting-robot-and-conveyor-arduino) (Awarded “Best Outgoing Project Award 2022–23”)
+* **[Aufnahme und Wiedergabe Roboterarm für Pick-and-Place (NodeMCU)](https://github.com/Bhakti-Boob/record-playback-robotic-arm-nodemcu)** — Teach-and-Repeat-System mit Potentiometern und Weboberfläche  
+* **[Hausautomation (NodeMCU)](https://github.com/Bhakti-Boob/home-automation-nodemcu)** — IoT-System zur Fernsteuerung und Überwachung von Haushaltsgeräten mit Sprachbefehlen über Google Assistant  
+* **[Sprachgesteuertes Roboter Auto (NodeMCU)](https://github.com/Bhakti-Boob/voice-controlled-robot-car-nodemcu)** — Roboterfahrzeug mit Sprachsteuerung über Google Assistant  
+* **Elektrischer Transportwagen für biomedizinische Anwendungen (B&R PLC)** — Präzise Bewegungssteuerung, Hinderniserkennung und HMI für den Einsatz im Krankenhaus  
+* **Torautomatisierung (Siemens S7-1200 PLC)** — Sichere Öffnungs- und Schließsteuerung von Toren mit Verriegelungen und einfacher HMI für den industriellen Einsatz
 
 ---
 
-## Technical skills
+## Ausbildung
 
-* **Languages & Firmware:** C, C++, Python, VHDL, SystemVerilog, Assembly 
-* **Microcontrollers & SoC:** ARM Cortex, Arduino, NodeMCU, FPGA, FPAA
-* **AI/ML:** Neural networks, ML toolchain integration
-* **PLC / Automation:** Siemens SIMATIC STEP-7 (TIA Portal), B&R Automation Studio
-* **Tools / Simulation:** MATLAB, Simulink, LabVIEW
+* **M.Sc., Eingebettete Computersysteme** — RPTU Kaiserslautern-Landau, Deutschland  
+  *Apr 2024 – heute*
+* **B. Eng., Instrumentierung und Steuerung** — Savitribai Phule Pune University, Indien (Abschlussnote 1,4)  
+  *Jul 2019 – Mai 2023*
+
+  * Bachelorarbeit: [Entwicklung eines Roboterarms und eines Förderbandes für einen farbbasierten Sortier mit Arduino](https://github.com/Bhakti-Boob/color-sorting-robot-and-conveyor-arduino) (Auszeichnung: „Bestes ausgehendes Projekt 2022–23“)
 
 ---
 
-##  Languages
-* Marwadi, Hindi, Marathi (native)
-* English (IELTS 8.0)
-* German (GOETHE-Zertifikat B1 and currently pursuing B2)
-* 
+## Fähigkeiten
+
+* **Programmierung:** C, C++, Python, VHDL, SystemVerilog, Assembler  
+* **Mikrocontroller & SoC:** ARM Cortex, Arduino, NodeMCU, FPGA, FPAA  
+* **KI/ML:** Neuronale Netze, Integration von ML-Toolchains  
+* **SPS / Automatisierung:** Siemens SIMATIC STEP-7 (TIA Portal), B&R Automation Studio  
+* **Modellierung:** MATLAB, Simulink, LabVIEW
+
 ---
 
-## Certifications
+## Sprachkenntnisse
 
-* MVP-FOX (PLC/HMI/SCADA/Drives)
-* B&R Automation Studio (Basic, ST & LD)
+* Marwadi, Hindi, Marathi (Muttersprache)  
+* Englisch (IELTS 8.0)  
+* Deutsch (GOETHE-Zertifikat B1 und derzeit im B2 Kurs)
+
+---
+
+## Zertifikate
+
+* MVP-FOX (SPS/HMI/SCADA/Antriebe)  
+* B&R Steuerungssysteme und Tools (Grundlagen, ST, LD Programmierung)  
 * Google AI — Explore ML (Intermediate)
+---
+
+## Hobbys & Interessen
+
+Wandern · Schwimmen · Radfahren · Lesen
 
 ---
 
-## Hobbies & interests
+## Kontakt
 
-Hiking · Swimming · Cycling · Reading
-
----
-
-## Contact
-
-* **Email:** [boobbhakti@gmail.com](mailto:boobbhakti@gmail.com)
-* **LinkedIn:** [linkedin.com/bhakti-boob](https://www.linkedin.com/in/bhakti-boob)
-* **Location:** Kaiserslautern, Germany
-
----
-
+* **E-Mail:** [boobbhakti@gmail.com](mailto:boobbhakti@gmail.com)  
+* **LinkedIn:** [linkedin.com/bhakti-boob](https://www.linkedin.com/in/bhakti-boob)  
+* **Ort:** Kaiserslautern, Deutschland
