@@ -9,7 +9,7 @@ permalink: /de/
 
 ## Über mich
 
-M.Sc.-Studentin im Studiengang Embedded Computing Systems mit praktischer Erfahrung in Embedded Intelligence, Mikrocontrollerprogrammierung, Echtzeitsystemen und industrieller Automatisierung. Bringt eine starke Kombination aus analoger und digitaler Hardware, Firmware Entwicklung (C, C++, Python, VHDL, Assembler) sowie AI/ML-Integration mit.
+M.Sc. Studentin im Studiengang Embedded Computing Systems mit praktischer Erfahrung in Embedded Intelligence, Mikrocontrollerprogrammierung, Echtzeitsystemen und industrieller Automatisierung. Bringt eine starke Kombination aus analoger und digitaler Hardware, Firmware Entwicklung (C, C++, Python, VHDL, Assembler) sowie AI/ML-Integration mit.
 
 ---
 
@@ -83,8 +83,9 @@ M.Sc.-Studentin im Studiengang Embedded Computing Systems mit praktischer Erfahr
 ## Zertifikate
 
 * MVP-FOX (SPS/HMI/SCADA/Antriebe)  
-* B&R Steuerungssysteme und Tools (Grundlagen, ST, LD Programmierung)  
+* B&R Steuerungssysteme und Tools (Grundlagen, ST, LD Programmierung)
 * Google AI — Explore ML (Intermediate)
+
 ---
 
 ## Hobbys & Interessen
@@ -98,3 +99,4 @@ Wandern · Schwimmen · Radfahren · Lesen
 * **E-Mail:** [boobbhakti@gmail.com](mailto:boobbhakti@gmail.com)  
 * **LinkedIn:** [linkedin.com/bhakti-boob](https://www.linkedin.com/in/bhakti-boob)  
 * **Ort:** Kaiserslautern, Deutschland
+
