@@ -86,6 +86,7 @@ Hiking · Swimming · Cycling · Reading
 ## Contact
 
 * **Email:** [boobbhakti@gmail.com](mailto:boobbhakti@gmail.com)
+* **LinkedIn:** [linkedin.com/bhakti-boob](https://www.linkedin.com/in/bhakti-boob)
 * **Location:** Kaiserslautern, Germany
 
 ---
