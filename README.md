@@ -1,15 +1,3 @@
-# Bhakti Manoj Boob 
-**Embedded Systems • Automation**
-
----
-
-## Contact
-
-* **Email:** [boobbhakti@gmail.com](mailto:boobbhakti@gmail.com)
-* **Location:** Kaiserslautern, Germany
-
----
-
 ## Professional summary
 
 M.Sc. student in Embedded Computing Systems with hands-on experience in Embedded Intelligence, Microcontroller programming, Real-Time systems and industrial automation. Strong mix of analog and digital hardware, firmware (C/C++, Python, VHDL, Assembly) and AI/ML integration
@@ -84,5 +72,12 @@ M.Sc. student in Embedded Computing Systems with hands-on experience in Embedded
 ## Hobbies & interests
 
 Hiking · Swimming · Cycling · Reading
+
+---
+
+## Contact
+
+* **Email:** [boobbhakti@gmail.com](mailto:boobbhakti@gmail.com)
+* **Location:** Kaiserslautern, Germany
 
 ---
