@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio (Deutsch)
-permalink: /Bhakti-Boob/de/
+permalink: /de/
 ---
 
 [English](../)
