@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Bhakti Manoj Boob
 logo: images/Photo_BhaktiBoob.png
 theme: jekyll-theme-minimal
@@ -100,3 +99,4 @@ Hiking · Swimming · Cycling · Reading
 * **Location:** Kaiserslautern, Germany
 
 ---
+
