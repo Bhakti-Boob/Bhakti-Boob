@@ -1,4 +1,4 @@
-## Professional summary
+## About me
 
 M.Sc. student in Embedded Computing Systems with hands-on experience in Embedded Intelligence, Microcontroller programming, Real-Time systems and industrial automation. Strong mix of analog and digital hardware, firmware (C/C++, Python, VHDL, Assembly) and AI/ML integration
 
@@ -62,10 +62,18 @@ M.Sc. student in Embedded Computing Systems with hands-on experience in Embedded
 
 ---
 
-## Certifications & Languages
+##  Languages
+* Marwadi, Hindi, Marathi (native)
+* English (IELTS 8.0)
+* German (GOETHE-Zertifikat B1 and currently pursuing B2)
+* 
+---
 
-* **Certifications:** MVP-FOX (PLC/HMI/SCADA/Drives), B&R Automation Studio (Basic, ST & LD), Google AI — Explore ML (Intermediate)
-* **Languages:** Marwadi / Hindi / Marathi (native), English (IELTS 8.0), German (GOETHE-Zertifikat B1)
+## Certifications
+
+* MVP-FOX (PLC/HMI/SCADA/Drives)
+* B&R Automation Studio (Basic, ST & LD)
+* Google AI — Explore ML (Intermediate)
 
 ---
 
