@@ -55,7 +55,7 @@ M.Sc. student in Embedded Computing Systems with hands-on experience in Embedded
 ## Projects 
 
 * **Record & playback Pick-and-Place robotic arm (NodeMCU)** — Teach-and-repeat system using potentiometer and Server UI
-* **Home automation (NodeMCU)** — IoT system for remote control and monitoring of home appliances with voice commands using Google Assistant
+* **Home automation (NodeMCU)** — IoT system for remote control and monitoring of home appliances with voice commands using Google Assistant `home-automation-nodemcu`
 * **Voice-operated robot car (Arduino)** — Robot motion control via voice commands using Google Assistant
 * **Electric trolley for biomedical application (B&R PLC)** — Precise motion control, obstacle detection and HMI for hospital use
 * **Gate automation (Siemens S7-1200 PLC)** — Safe open/close of gates with interlocks and simple HMI for industrial setting
