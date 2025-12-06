@@ -34,9 +34,9 @@ M.Sc. student in Embedded Computing Systems with hands-on experience in Embedded
 
 ## Projects 
 
-* **[Record & playback Pick-and-Place robotic arm (NodeMCU)](https://github.com/Bhakti-Boob/record-playback-robotic-arm-nodemcu)** — Teach-and-repeat system using potentiometer and Server UI
-* **[Home automation (NodeMCU)](https://github.com/Bhakti-Boob/home-automation-nodemcu)** — IoT system for remote control and monitoring of home appliances with voice commands using Google Assistant
-* **[Voice-operated robot car (NodeMCU)](https://github.com/Bhakti-Boob/voice-controlled-robot-car-nodemcu)** — Robot motion control via voice commands using Google Assistant
+* **Record & playback Pick-and-Place robotic arm (NodeMCU)** — Teach-and-repeat system using potentiometer and Server UI [`GitHub`](https://github.com/Bhakti-Boob/record-playback-robotic-arm-nodemcu)
+* **Home automation (NodeMCU)** — IoT system for remote control and monitoring of home appliances with voice commands using Google Assistant [`GitHub`](https://github.com/Bhakti-Boob/home-automation-nodemcu)
+* **Voice-operated robot car (NodeMCU)** — Robot motion control via voice commands using Google Assistant [`GitHub`](https://github.com/Bhakti-Boob/voice-controlled-robot-car-nodemcu)
 * **Electric trolley for biomedical application (B&R PLC)** — Precise motion control, obstacle detection and HMI for hospital use
 * **Gate automation (Siemens S7-1200 PLC)** — Safe open/close of gates with interlocks and simple HMI for industrial setting
 
@@ -49,7 +49,8 @@ M.Sc. student in Embedded Computing Systems with hands-on experience in Embedded
 * **B. Eng., Instrumentation and Control** — Savitribai Phule Pune University, India (GPA: 1.4)
   *Jul 2019 – May 2023*
 
-  * Bachelor thesis:  [Development of a robotic arm and conveyor for a color-based sorting operation using Arduino](https://github.com/Bhakti-Boob/color-sorting-robot-and-conveyor-arduino) (Awarded “Best Outgoing Project Award 2022–23”)
+  * Bachelor thesis:  Development of a robotic arm and conveyor for a color-based sorting operation using Arduino (Awarded “Best Outgoing Project Award 2022–23”) [`GitHub`](https://github.com/Bhakti-Boob/color-sorting-robot-and-conveyor-arduino)
+
 
 ---
 
