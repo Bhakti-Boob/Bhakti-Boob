@@ -27,8 +27,7 @@ M.Sc. Studentin im Studiengang Embedded Computing Systems mit praktischer Erfahr
   *Mai 2025 – Aug 2025*
 
   * Betreuung des Assemblerlabor und Unterstützung von Studierenden bei Assembler Programmierung und Hardware Debugging auf ARM Cortex-M0+  
-  * Konzeption und Umsetzung eines IR-basierten Präzisionszeitmess und Rennverwaltungssystems für autonome Linienfolge-Roboter mit Arduino  
-    ([IR-based precision timing and race management system](https://github.com/Bhakti-Boob/ir-race-timer-arduino))
+  * Konzeption und Umsetzung eines IR-basierten Präzisionszeitmess und Rennverwaltungssystems für autonome Linienfolge-Roboter mit Arduino [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Bhakti-Boob/ir-race-timer-arduino)
 
 * **Praktikum (Elektronik)** — Brose Automotive Systems Pvt. Ltd., Pune, Indien  
   *Mai 2022 – Aug 2022*
@@ -44,9 +43,14 @@ M.Sc. Studentin im Studiengang Embedded Computing Systems mit praktischer Erfahr
 
 ## Projekte 
 
-* **[Aufnahme und Wiedergabe Roboterarm für Pick-and-Place (NodeMCU)](https://github.com/Bhakti-Boob/record-playback-robotic-arm-nodemcu)** — Teach-and-Repeat-System mit Potentiometern und Weboberfläche  
-* **[Hausautomation (NodeMCU)](https://github.com/Bhakti-Boob/home-automation-nodemcu)** — IoT-System zur Fernsteuerung und Überwachung von Haushaltsgeräten mit Sprachbefehlen über Google Assistant  
-* **[Sprachgesteuertes Roboter Auto (NodeMCU)](https://github.com/Bhakti-Boob/voice-controlled-robot-car-nodemcu)** — Roboterfahrzeug mit Sprachsteuerung über Google Assistant  
+* **[Aufnahme und Wiedergabe Roboterarm für Pick-and-Place (NodeMCU)]** — Teach-and-Repeat-System mit Potentiometern und Weboberfläche
+  [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Bhakti-Boob/record-playback-robotic-arm-nodemcu)
+  
+* **[Hausautomation (NodeMCU)]** — IoT-System zur Fernsteuerung und Überwachung von Haushaltsgeräten mit Sprachbefehlen über Google Assistant
+  [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Bhakti-Boob/home-automation-nodemcu)
+  
+* **[Sprachgesteuertes Roboter Auto (NodeMCU)]** — Roboterfahrzeug mit Sprachsteuerung über Google Assistant
+  [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Bhakti-Boob/voice-controlled-robot-car-nodemcu)
 * **Elektrischer Transportwagen für biomedizinische Anwendungen (B&R PLC)** — Präzise Bewegungssteuerung, Hinderniserkennung und HMI für den Einsatz im Krankenhaus  
 * **Torautomatisierung (Siemens S7-1200 PLC)** — Sichere Öffnungs- und Schließsteuerung von Toren mit Verriegelungen und einfacher HMI für den industriellen Einsatz
 
@@ -59,7 +63,8 @@ M.Sc. Studentin im Studiengang Embedded Computing Systems mit praktischer Erfahr
 * **B. Eng., Instrumentierung und Steuerung** — Savitribai Phule Pune University, Indien (Abschlussnote 1,4)  
   *Jul 2019 – Mai 2023*
 
-  * Bachelorarbeit: [Entwicklung eines Roboterarms und eines Förderbandes für einen farbbasierten Sortier mit Arduino](https://github.com/Bhakti-Boob/color-sorting-robot-and-conveyor-arduino) (Auszeichnung: „Bestes ausgehendes Projekt 2022–23“)
+  * Bachelorarbeit: Entwicklung eines Roboterarms und eines Förderbandes für einen farbbasierten Sortier mit Arduino (Auszeichnung: „Bestes ausgehendes Projekt 2022–23“)
+    [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Bhakti-Boob/color-sorting-robot-and-conveyor-arduino)
 
 ---
 
@@ -100,6 +105,7 @@ Wandern · Schwimmen · Radfahren · Lesen
 * **E-Mail:** [boobbhakti@gmail.com](mailto:boobbhakti@gmail.com)  
 * **LinkedIn:** [linkedin.com/bhakti-boob](https://www.linkedin.com/in/bhakti-boob)  
 * **Ort:** Kaiserslautern, Deutschland
+
 
 
 
