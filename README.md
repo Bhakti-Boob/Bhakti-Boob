@@ -37,7 +37,7 @@ M.Sc. student in Embedded Computing Systems with hands-on experience in Embedded
   [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Bhakti-Boob/record-playback-robotic-arm-nodemcu)
   
 * **Home automation (NodeMCU)** — IoT system for remote control and monitoring of home appliances with voice commands using Google Assistant
-  [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Bhakti-Boob/voice-controlled-robot-car-nodemcu)
+  [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Bhakti-Boob/home-automation-nodemcu)
   
 * **Voice-operated robot car (NodeMCU)** — Robot motion control via voice commands using Google Assistant
   [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Bhakti-Boob/voice-controlled-robot-car-nodemcu)
