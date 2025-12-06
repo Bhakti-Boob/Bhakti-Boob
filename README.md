@@ -69,7 +69,7 @@ M.Sc. student in Embedded Computing Systems with hands-on experience in Embedded
 * **B. Eng., Instrumentation and Control** — Savitribai Phule Pune University, India (GPA: 1.4)
   *Jul 2019 – May 2023*
 
-  * Bachelor thesis:  Development of a robotic arm and conveyor for a color-based sorting operation using Arduino (Awarded “Best Outgoing Project Award 2022–23”) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhakti-Boob/color-sorting-robot-and-conveyor-arduino)
+  * Bachelor thesis:  Development of a robotic arm and conveyor for a color-based sorting operation using Arduino (Awarded “Best Outgoing Project Award 2022–23”) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhakti-Boob/color-sorting-robot-and-conveyor-arduino)
 
 
 ---
