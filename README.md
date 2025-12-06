@@ -18,7 +18,7 @@ M.Sc. student in Embedded Computing Systems with hands-on experience in Embedded
   *May 2025 – Aug 2025*
 
   * Managed Assembler programming laboratory and mentored students in Assembly programming and hardware debugging on ARM Cortex-M0+ 
-   * Designed and implemented [IR-based precision timing and race management system](https://github.com/Bhakti-Boob/ir-race-timer-arduino) for autonomous line following robots using Arduino
+   * Designed and implemented IR-based precision timing and race management system for autonomous line following robots using Arduino [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Bhakti-Boob/ir-race-timer-arduino) 
 
 * **Internship (Electronics)** — Brose Automotive Systems Pvt. Ltd., Pune, India
   *May 2022 – Aug 2022*
@@ -34,28 +34,13 @@ M.Sc. student in Embedded Computing Systems with hands-on experience in Embedded
 
 ## Projects 
 * **Record & playback Pick-and-Place robotic arm (NodeMCU)** — Teach-and-repeat system using potentiometer and Server UI
-  <a href="https://github.com/Bhakti-Boob/record-playback-robotic-arm-nodemcu">
-    <span style="background:#e1e4e8;border:1px solid #d0d7de;border-radius:4px;
-                 padding:2px 6px;font-size:0.8em;color:#24292e;">
-      GitHub
-    </span>
-  </a>
+  [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Bhakti-Boob/record-playback-robotic-arm-nodemcu)
   
 * **Home automation (NodeMCU)** — IoT system for remote control and monitoring of home appliances with voice commands using Google Assistant
-  <a href="https://github.com/Bhakti-Boob/voice-controlled-robot-car-nodemcu">
-    <span style="background:#e1e4e8;border:1px solid #d0d7de;border-radius:4px;
-                 padding:2px 6px;font-size:0.8em;color:#24292e;">
-      GitHub
-    </span>
-  </a>
+  [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Bhakti-Boob/voice-controlled-robot-car-nodemcu)
   
 * **Voice-operated robot car (NodeMCU)** — Robot motion control via voice commands using Google Assistant
-  <a href="https://github.com/Bhakti-Boob/voice-controlled-robot-car-nodemcu">
-    <span style="background:#e1e4e8;border:1px solid #d0d7de;border-radius:4px;
-                 padding:2px 6px;font-size:0.8em;color:#24292e;">
-      GitHub
-    </span>
-  </a>
+  [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Bhakti-Boob/voice-controlled-robot-car-nodemcu)
   
 * **Electric trolley for biomedical application (B&R PLC)** — Precise motion control, obstacle detection and HMI for hospital use
 * **Gate automation (Siemens S7-1200 PLC)** — Safe open/close of gates with interlocks and simple HMI for industrial setting
@@ -69,7 +54,7 @@ M.Sc. student in Embedded Computing Systems with hands-on experience in Embedded
 * **B. Eng., Instrumentation and Control** — Savitribai Phule Pune University, India (GPA: 1.4)
   *Jul 2019 – May 2023*
 
-  * Bachelor thesis:  Development of a robotic arm and conveyor for a color-based sorting operation using Arduino (Awarded “Best Outgoing Project Award 2022–23”) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhakti-Boob/color-sorting-robot-and-conveyor-arduino)
+  * Bachelor thesis:  Development of a robotic arm and conveyor for a color-based sorting operation using Arduino (Awarded “Best Outgoing Project Award 2022–23”) [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Bhakti-Boob/color-sorting-robot-and-conveyor-arduino)
 
 
 ---
