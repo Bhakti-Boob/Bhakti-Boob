@@ -51,6 +51,7 @@ M.Sc. Studentin im Studiengang Embedded Computing Systems mit praktischer Erfahr
   
 * **[Sprachgesteuertes Roboter Auto (NodeMCU)]** — Roboterfahrzeug mit Sprachsteuerung über Google Assistant
   [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Bhakti-Boob/voice-controlled-robot-car-nodemcu)
+  
 * **Elektrischer Transportwagen für biomedizinische Anwendungen (B&R PLC)** — Präzise Bewegungssteuerung, Hinderniserkennung und HMI für den Einsatz im Krankenhaus  
 * **Torautomatisierung (Siemens S7-1200 PLC)** — Sichere Öffnungs- und Schließsteuerung von Toren mit Verriegelungen und einfacher HMI für den industriellen Einsatz
 
@@ -105,6 +106,7 @@ Wandern · Schwimmen · Radfahren · Lesen
 * **E-Mail:** [boobbhakti@gmail.com](mailto:boobbhakti@gmail.com)  
 * **LinkedIn:** [linkedin.com/bhakti-boob](https://www.linkedin.com/in/bhakti-boob)  
 * **Ort:** Kaiserslautern, Deutschland
+
 
 
 
